@@ -1,6 +1,6 @@
 # sitecues-moodle-plugin
 
-> A Moodle plugin for Sitecues.  Sitecues let users easily customize learning material – by applying magnification, speech, color themes, and other reading enhancements.  This plugin requires the purchase a of third-party subscription service.
+> A Moodle plugin for Sitecues.  Sitecues let users easily customize learning material – by applying magnification, speech, color themes, and other reading enhancements.  This plugin requires the purchase of a third-party subscription service.
 
 ## Why?
 
