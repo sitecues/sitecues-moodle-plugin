@@ -1,0 +1,18 @@
+{
+    "name": "sitecues/moodle-block_sitecues",
+    "description": "Sitecues® is Software-as-a-Service (SaaS) technology for website owners.  Websites with sitecues are easier for people with diverse abilities to read, hear, and use.  Website visitors can customize their experience – by applying page magnification, speech, reading enhancements, and personal settings — without impacting other visitors.",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Keith Donaldson",
+            "email": "kdonaldson@aisquared.com"
+        }
+    ],
+    "type": "moodle-block",
+    "require": {
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "sitecues"
+    }
+}
