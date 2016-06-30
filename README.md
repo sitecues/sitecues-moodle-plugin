@@ -9,7 +9,7 @@
 
 ![WhySitecues](/doc/sitecues.png)
 
-![AnimatedSitecues](/doc/sitecues.gif)
+[![Sitecues Demo](https://img.youtube.com/vi/FsMvnPzUuPI/0.jpg)](https://www.youtube.com/watch?v=FsMvnPzUuPI)
 
 ## Install
 
