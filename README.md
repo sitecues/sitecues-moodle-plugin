@@ -9,7 +9,7 @@
 
 ![WhySitecues](/doc/sitecues.png)
 
-![AnimatedSitecues](/doc/sitecues.gif)
+![AnimatedSitecues](/doc/sitecues_repear.gif)
 
 ## Install
 
