@@ -9,6 +9,8 @@
 
 ![WhySitecues](/doc/sitecues.png)
 
+![AnimatedSitecues](/doc/sitecues.gif)
+
 ## Install
 
 TBD
