@@ -7,6 +7,8 @@
  - Enable your platform with zoom and speech.
  - Reach more users.
 
+![WhySitecues](/doc/sitecues.png)
+
 ## Install
 
 TBD
